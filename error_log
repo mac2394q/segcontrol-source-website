@@ -1,0 +1,12 @@
+[14-Dec-2019 06:54:30 UTC] PHP Warning:  Cannot call assert() with string argument dynamically in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 06:54:31 UTC] PHP Warning:  Cannot call assert() with string argument dynamically in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 07:00:00 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 08:13:28 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 08:43:56 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 08:44:51 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 08:54:03 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 08:57:35 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 11:53:28 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 12:05:54 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 12:05:59 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
+[14-Dec-2019 12:08:58 UTC] PHP Warning:  assert(): Assertion failed in /home1/portalxn/public_html/segcontrol/wp-cons.php on line 11
